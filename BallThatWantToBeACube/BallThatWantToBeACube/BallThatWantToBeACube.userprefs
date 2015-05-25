@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Behavioral\DestructibleWallBehaviorScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\Behavioral\ObjectDestroyer.js" Line="6" Column="51" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\PuncherBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\CubeBehaviorScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\BallBahaviorScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\DestructibleWallBehaviorScript.js" Line="11" Column="43" />
+      <File FileName="Assets\Scripts\Behavioral\MovementControllerScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\PlayerDestructionControllerScript.js" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\HasterBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\Rotator.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Build\MenuController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraViews\MainCameraController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Configurational\SettingsReader.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\BallThatWantToBeACube\BallThatWantToBeACube\Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" line="36" />
+      <Breakpoint file="E:\BallThatWantToBeACube\BallThatWantToBeACube\Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" line="39" />
+      <Breakpoint file="E:\BallThatWantToBeACube\BallThatWantToBeACube\Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" line="26" />
+      <Breakpoint file="E:\BallThatWantToBeACube\BallThatWantToBeACube\Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" line="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
