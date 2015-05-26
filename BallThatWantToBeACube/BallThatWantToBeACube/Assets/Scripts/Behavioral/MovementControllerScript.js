@@ -25,7 +25,7 @@ function MoveWithForce(rigitBody:Rigidbody, speed : float){
 	}
 	
 	rBody.AddForce(movementVector * speed);
-	if (this.gameObject.transform.position.y <= -5){
+	if (this.gameObject.transform.position.y <= -30){
 		resetPosition();
 	}
 }

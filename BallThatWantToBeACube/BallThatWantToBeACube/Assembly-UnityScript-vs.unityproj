@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Behavioral\DestructibleWallBehaviorScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\HasterBehaviourScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\PuncherBehaviourScript.js" />
+     <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\RandomMovingPlatformsBehaviourScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\MovementControllerScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\ObjectDestroyer.js" />
