@@ -7,7 +7,5 @@ function Start(){
 }
 
 function OnTriggerEnter (other : Collider) {
-	if (other.CompareTag("EndPoint")){ 
 		finishText.text = "You win!";
-	}
 }

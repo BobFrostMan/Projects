@@ -6,6 +6,7 @@ var speed : float;
 var distance : float;
 
 //TODO: Remove rigidBodies
+// Their makes computations harder and make possible to move above the BigPunchers
 
 function Start () {
 	rBody = GetComponent.<Rigidbody>();
