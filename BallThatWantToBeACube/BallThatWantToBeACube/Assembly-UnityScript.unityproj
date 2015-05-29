@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\Behavioral\CubeBehaviorScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\DestructibleWallBehaviorScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\BigPunchersBehaviourScript.js" />
+     <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\DestructiblePlatformsBehaviourScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\HasterBehaviourScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\PuncherBehaviourScript.js" />
      <Compile Include="Assets\Scripts\Behavioral\LevelModifiers\RandomMovingPlatformsBehaviourScript.js" />
