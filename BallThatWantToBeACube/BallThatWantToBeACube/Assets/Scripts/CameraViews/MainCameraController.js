@@ -11,6 +11,7 @@ function LateUpdate(){
    // transform.Translate(Vector3.right * Time.deltaTime);
    if (Input.GetKey("escape")){
    		Application.LoadLevel(0);
+   		Cursor.visible = true;
    }
 }
 
