@@ -1,3 +1,11 @@
 https://docs.google.com/spreadsheets/d/1JcqsXfTzjb8H2iu42XrzyDDDTl4OxzYeOLBu3N4OgX8/edit#gid=4380625 - issues and design doc
 
 http://answers.unity3d.com/questions/27447/how-can-reduce-the-poly-count.html - reducing polies
+
+58 /13 /48
+15 /7  /16
+
+V	E	 F	  T
+
+75 /137 /41 / 136
+10 /15  /7  / 16
