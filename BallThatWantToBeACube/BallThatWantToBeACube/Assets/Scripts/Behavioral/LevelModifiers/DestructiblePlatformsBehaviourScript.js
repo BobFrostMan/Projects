@@ -29,8 +29,9 @@ function OnCollisionEnter (col : Collision) {
 		} else {
 		  currentObj = Instantiate(destructedObj, transform.position, transform.rotation);
 		}
-		var scale = transform.localScale;
-		currentObj.transform.localScale = scale;
+		//This code doesn't need if metrics are same in 3d editor and unity
+		//var scale = transform.localScale;
+		//currentObj.transform.localScale = scale;
 		Destroy(this.gameObject);
 		Debug.Log("Object " + gameObject.name  + " destructed!");
 	}
