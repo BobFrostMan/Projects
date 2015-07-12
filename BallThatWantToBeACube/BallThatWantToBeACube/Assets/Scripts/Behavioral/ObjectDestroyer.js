@@ -3,6 +3,6 @@
 function Update () {
 	if (transform.position.y < yDestroyValue){
 		Destroy(this.gameObject);
-		Debug.Log(this.gameObject.name + " destroyed!");
+		//Debug.Log(this.gameObject.name + " destroyed!");
 	}
 }

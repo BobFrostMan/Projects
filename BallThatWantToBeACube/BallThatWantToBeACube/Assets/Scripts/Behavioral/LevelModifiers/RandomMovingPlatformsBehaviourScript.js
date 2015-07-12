@@ -21,7 +21,7 @@ function Start () {
 	seconds = targetTime;
 }
 
-function Update () {
+function FixedUpdate () {
  	targetTime -= Time.deltaTime;
 	 	if (targetTime > 0.0f){
 	 		MoveOnXAxis(distance);

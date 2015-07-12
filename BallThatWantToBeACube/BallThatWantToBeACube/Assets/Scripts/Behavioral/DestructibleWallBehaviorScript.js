@@ -11,7 +11,7 @@ function DestroyObject(){
 		Instantiate(destructibleObject, transform.position, transform.rotation);
 		var destructedObjectName = gameObject.name;
 		Destroy(this.gameObject);
-		Debug.Log("Object " + destructedObjectName  + " destructed!");
+		//Debug.Log("Object " + destructedObjectName  + " destructed!");
 	}
 }
 

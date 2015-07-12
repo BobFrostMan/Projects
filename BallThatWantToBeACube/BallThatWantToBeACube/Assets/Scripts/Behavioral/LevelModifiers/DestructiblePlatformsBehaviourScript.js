@@ -33,6 +33,6 @@ function OnCollisionEnter (col : Collision) {
 		//var scale = transform.localScale;
 		//currentObj.transform.localScale = scale;
 		Destroy(this.gameObject);
-		Debug.Log("Object " + gameObject.name  + " destructed!");
+		//Debug.Log("Object " + gameObject.name  + " destructed!");
 	}
 }

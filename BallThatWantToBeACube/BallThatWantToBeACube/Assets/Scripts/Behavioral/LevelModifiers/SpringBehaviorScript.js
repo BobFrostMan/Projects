@@ -27,7 +27,7 @@ function OnCollisionEnter(){
 		offset = other.GetComponent(Rigidbody).transform.position.z - startPosition;
 		GetComponent(Rigidbody).velocity = transform.TransformDirection(Vector3.forward * speed);
 		isPunched = true;
-		Debug.Log("isPunched = " + isPunched);
+		//Debug.Log("isPunched = " + isPunched);
 	}
 }
 
