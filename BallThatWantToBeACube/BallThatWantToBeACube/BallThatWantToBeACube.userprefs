@@ -1,26 +1,27 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Behavioral\LevelModifiers\RandomMovingPlatformsBehaviourScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Utils\Axis.js">
     <Files>
       <File FileName="Assets\Scripts\Behavioral\LevelModifiers\SpringBehaviorScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\TeleportationScript.js" Line="2" Column="1" />
-      <File FileName="Assets\Scripts\Behavioral\MovementControllerScript.js" Line="28" Column="51" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\TeleportationScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\MovementControllerScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Behavioral\DestructibleWallBehaviorScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Behavioral\CubeBehaviorScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\DestructiblePlatformsBehaviourScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Configurational\SettingsReader.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\HasterBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\DestructiblePlatformsBehaviourScript.js" Line="28" Column="71" />
+      <File FileName="Assets\Scripts\Configurational\SettingsReader.js" Line="8" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\HasterBehaviourScript.js" Line="15" Column="11" />
       <File FileName="Assets\Scripts\Behavioral\ObjectDestroyer.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Behavioral\LevelModifiers\RandomMovingPlatformsBehaviourScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Events\EndLevelScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Behavioral\LevelModifiers\PuncherBehaviourScript.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\BigPunchersBehaviourScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Behavioral\LevelModifiers\BigPunchersBehaviourScript.js" Line="38" Column="31" />
       <File FileName="Assets\Scripts\Behavioral\PlayerDestructionControllerScript.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\CameraViews\MainCameraController.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Build\MenuController.js" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Behavioral\Rotator.js" Line="1" Column="1" />
       <File FileName="Assets\settings.txt" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Behavioral\BallBahaviorScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Utils\Axis.js" Line="3" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

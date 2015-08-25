@@ -4,7 +4,7 @@ var moved: boolean;
 var rBody : Rigidbody;
 var speed : float;
 var distance : float;
-
+public var axis : Axis;
 //TODO: Remove rigidBodies
 
 function Start () {
@@ -35,10 +35,10 @@ function FixedUpdate () {
  function MoveOnZAxisOnRandomDistance() {
  		var zDistance = Random.Range(1, 6);
 		if (moved){
- 			rBody.AddForce(Vector3(0, 0, zDistance));
+ 			rBody.AddForce(MovementUtils.moveByDirection(zDistance, axis));
  			//transform.position += pos;
  		} else {
- 			rBody.AddForce(Vector3(0, 0, -zDistance));
+ 			rBody.AddForce(MovementUtils.moveByDirection(-zDistance, axis));
  			//transform.position -= pos;
  		}
  }

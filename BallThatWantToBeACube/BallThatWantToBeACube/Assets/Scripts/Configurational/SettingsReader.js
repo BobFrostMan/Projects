@@ -13,8 +13,8 @@ private static var _playerStartPositionZ : String = "player.startPosition.Z";
 
 //Defaults
 private static var _defaultPlayerSpeed : String = "5";
-private static var _defaultPlayerPosX : String = "0";
-private static var _defaultPlayerPosZ : String = "0";
+private static var _defaultPlayerPosX : String = "-9";
+private static var _defaultPlayerPosZ : String = "-9";
 
 
 //Constraints section:

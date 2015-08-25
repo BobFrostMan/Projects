@@ -4,6 +4,7 @@ var moved: boolean;
 var rBody : Rigidbody;
 var speed : float;
 var distance : float;
+var axis : Axis;
 
 //TODO: Remove rigidBodies
 // Their makes computations harder and make possible to move above the BigPunchers
@@ -35,10 +36,10 @@ function FixedUpdate () {
  
  function MoveOnXAxis(xDistance: float) {
 		if (moved){
- 			rBody.AddForce(Vector3(xDistance, 0, 0));
+ 			rBody.AddForce(MovementUtils.moveByDirection(xDistance, axis));
  			//transform.position += pos;
  		} else {
- 			rBody.AddForce(Vector3(-xDistance, 0, 0));
+ 			rBody.AddForce(MovementUtils.moveByDirection(-xDistance, axis));
  			//transform.position -= pos;
  		}
  }
